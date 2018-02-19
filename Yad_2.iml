@@ -161,5 +161,419 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:selenium-chrome-driver-2.42.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.seleniumhq.selenium/selenium-chrome-driver/jars/selenium-chrome-driver-2.42.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:selenium-remote-driver-2.42.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.seleniumhq.selenium/selenium-remote-driver/jars/selenium-remote-driver-2.42.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:selenium-api-2.42.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.seleniumhq.selenium/selenium-api/jars/selenium-api-2.42.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:guava-15.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/com.google.guava/guava/bundles/guava-15.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:httpclient-4.3.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.apache.httpcomponents/httpclient/jars/httpclient-4.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:httpcore-4.3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.apache.httpcomponents/httpcore/jars/httpcore-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:commons-logging-1.1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/commons-logging/commons-logging/jars/commons-logging-1.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:commons-codec-1.9.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/commons-codec/commons-codec/jars/commons-codec-1.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:spock-core-1.0-groovy-2.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.spockframework/spock-core/jars/spock-core-1.0-groovy-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:groovy-all-2.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.codehaus.groovy/groovy-all/jars/groovy-all-2.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:junit-4.12.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/junit/junit/jars/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-spock-0.13.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.gebish/geb-spock/jars/geb-spock-0.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-test-common-0.13.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.gebish/geb-test-common/jars/geb-test-common-0.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:junit-4.10.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/junit/junit/jars/junit-4.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:hamcrest-core-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-core-0.13.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.gebish/geb-core/jars/geb-core-0.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-waiting-0.13.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.gebish/geb-waiting/jars/geb-waiting-0.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-implicit-assertions-0.13.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.gebish/geb-implicit-assertions/jars/geb-implicit-assertions-0.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-exceptions-0.13.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.gebish/geb-exceptions/jars/geb-exceptions-0.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-ast-0.13.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.gebish/geb-ast/jars/geb-ast-0.13.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-core-0.7.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.codehaus.geb/geb-core/jars/geb-core-0.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:geb-implicit-assertions-0.7.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.codehaus.geb/geb-implicit-assertions/jars/geb-implicit-assertions-0.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:selenium-support-2.24.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.seleniumhq.selenium/selenium-support/jars/selenium-support-2.24.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:selenium-api-2.24.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.seleniumhq.selenium/selenium-api/jars/selenium-api-2.24.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:guava-12.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/com.google.guava/guava/jars/guava-12.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:jsr305-1.3.9.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/com.google.code.findbugs/jsr305/jars/jsr305-1.3.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:selenium-firefox-driver-2.24.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.seleniumhq.selenium/selenium-firefox-driver/jars/selenium-firefox-driver-2.24.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:selenium-remote-driver-2.24.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.seleniumhq.selenium/selenium-remote-driver/jars/selenium-remote-driver-2.24.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:httpclient-4.1.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:httpcore-4.1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.apache.httpcomponents/httpcore/jars/httpcore-4.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:commons-io-2.0.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/commons-io/commons-io/jars/commons-io-2.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:htmlunit-2.7.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/net.sourceforge.htmlunit/htmlunit/jars/htmlunit-2.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:xalan-2.7.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/xalan/xalan/jars/xalan-2.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:serializer-2.7.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/xalan/serializer/jars/serializer-2.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:xml-apis-1.3.04.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/xml-apis/xml-apis/jars/xml-apis-1.3.04.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:commons-collections-3.2.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:commons-lang-2.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/commons-lang/commons-lang/jars/commons-lang-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:commons-httpclient-3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/commons-httpclient/commons-httpclient/jars/commons-httpclient-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:commons-codec-1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/commons-codec/commons-codec/jars/commons-codec-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:htmlunit-core-js-2.7.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/net.sourceforge.htmlunit/htmlunit-core-js/jars/htmlunit-core-js-2.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:xercesImpl-2.9.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/xerces/xercesImpl/jars/xercesImpl-2.9.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:nekohtml-1.9.14.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/net.sourceforge.nekohtml/nekohtml/jars/nekohtml-1.9.14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:cssparser-0.9.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/net.sourceforge.cssparser/cssparser/jars/cssparser-0.9.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:sac-1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/org.w3c.css/sac/jars/sac-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:commons-io-1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/commons-io/commons-io/jars/commons-io-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
