@@ -1,0 +1,12 @@
+{
+  "chromeDriver": "C:\\Program Files\\WebDrivers\\CHROME\\chromedriver.exe",
+  "baseUrl": "http://www.google.com",
+  "mainUrl": "http://m.yad2.co.il",
+
+  "desktop-navigation": {
+    "cars": "vehicles/private-cars",
+    "realEstate": "realestate/forsale",
+    "yad2": "products/other",
+    "animals": "animals"
+  }
+}
